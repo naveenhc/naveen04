@@ -1,0 +1,22 @@
+appuarpith1995@gmail.com
+kalamadhu
+https://www.tecmint.com/how-to-add-linux-host-to-nagios-monitoring-server/
+
+Cloud Operations Systems/Network Administrator with AWS cloud operations.
+Will be responsible for daily operations such as log analysis, monitoring analysis, performance reporting, data management, data validation, data restoration, essential cloud network operations, DNS record management, OS patching, and responding to security incidents.
+Key areas of import: attention to detailed instruction, ability to work through pre-defined procedures in a meticulous fashion, ability to identify and communicate...
+
+SELECT OPERATORS from hpsmadmin.assignmentA1 where OPERATORS
+NOT IN (select DISTINCT NAME from hpsmadmin.OPERATORM1 WHERE NAME IN (select OPERATORS from hpsmadmin.assignmentA1 where name='SNOC INM BSS - SPTL'))
+AND name='SNOC INM BSS - SPTL';
+
+VAR ACTION () = (() () () ())
+
+resolved query for SNOC and TNOC
+
+Update hpsmadmin.probsummarym1 Set Downtime_End=downtime_start+ (09/1440), resolved_time= open_time+ (09/1440),total_resolution_time='0 Hours : 9 Mins : 0 Seconds',
+problem_status='Resolved', current_phase='Review', resolution='RFO Awaited***Auto Resolved',
+Sla_Breach='f', update_time=sysdate,sysmodtime=sysdate where "NUMBER" in (
+
+Update sloresponsem1 Set current_status='4', running='f', breached='f', suspended='f' where foreign_key in ('
+
